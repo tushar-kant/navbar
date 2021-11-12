@@ -19,10 +19,7 @@ li {
   list-style: none;
 }
 
-/* 
- 
 
-/* navbar style start  */
 
 .main-nav {
   width: 100%;
@@ -35,7 +32,7 @@ li {
 
 .logo {
   display: grid;
-  /* background-color: #3b5998; */
+
   grid-column: 2/3;
   justify-content: start;
   align-items: center;
@@ -72,7 +69,7 @@ li {
   grid-column: 2/3;
 }
 
-/* ----------- Grid part ends ----------------- */
+
 
 .logo h2 {
   font-size: 2.5rem;
@@ -123,7 +120,7 @@ li {
   color: #ff0000;
 }
 
-/* hero section   */
+
 
 .hero-section {
   height: 80vh;
@@ -144,7 +141,6 @@ li {
   text-align: center;
 }
 
-/* responsive css style  */
 @media (max-width: 1080px) {
   .main-nav {
     height: 8rem;
@@ -158,7 +154,7 @@ li {
   }
 }
 
-/* responsive css style  */
+
 @media (max-width: 998px) {
   .main-nav {
     height: 7rem;
